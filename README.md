@@ -1,0 +1,2 @@
+# AI_FaceNet
+训练谷歌人脸识别系统facenet和resnet，实现戴口罩得人脸属性识别
